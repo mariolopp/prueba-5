@@ -1,0 +1,5 @@
+time.deltaTime  --> tiempo del update
+clk derecho create empty --> crear gameobject
+las propiedades que cambiemos en modo de ejecución no se guardan
+fixedUpdate se ejecuta a un paso fijo
+
